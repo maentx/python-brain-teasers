@@ -9,4 +9,4 @@ class Player:
 
 p1 = Player('Parzival')
 print(Player.count)
-print(p1.count)
+# print(p1.count)
